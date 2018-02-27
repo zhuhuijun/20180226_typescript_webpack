@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "outDir": "./built",
+        "module": "commonjs",
+        "allowJs": true,
+        "target": "es5"
+    }
+}
